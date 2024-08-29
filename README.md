@@ -8,8 +8,10 @@
 
 - Java 연습
 
+- R 연습
+
 - 초창기 Python 코드
 
 - Python-Go 연동 코드
 
-last update : 2024.06.25
+last update : 2024.08.30
