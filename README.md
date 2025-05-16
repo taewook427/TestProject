@@ -14,6 +14,6 @@
 
 - Python-Go 연동 코드
 
-- LineCount with R
+- LineCount
 
-last update : 2025.01.09
+last update : 2025.05.16
