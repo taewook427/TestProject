@@ -14,6 +14,6 @@
 
 - Python-Go 연동 코드
 
-- LineCount
+- Android Hello
 
 last update : 2025.05.16
